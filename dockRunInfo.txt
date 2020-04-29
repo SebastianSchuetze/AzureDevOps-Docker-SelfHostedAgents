@@ -1,0 +1,1 @@
+docker run -e AZP_URL=https://dev.azure.com/razorspoint -e AZP_TOKEN=hlizgdfho737u3fmtzrlu3wxpmiz3r6kzdzajcegtvrnla5hmwha -e AZP_AGENT_NAME=mydockeragent dockeragent:latest
